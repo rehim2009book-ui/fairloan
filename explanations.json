@@ -1,60 +1,242 @@
 {
- "93": {
-  "decision": "REJECTED",
-  "approve_chance": 0.47,
-  "drivers": [
-   {
-    "feature": "property",
-    "plain": "property owned",
-    "value": "real estate",
-    "effect": "hurt",
-    "strength": -0.47
-   },
-   {
-    "feature": "housing",
-    "plain": "housing (rent / own / free)",
-    "value": "free",
-    "effect": "hurt",
-    "strength": -0.47
-   },
-   {
-    "feature": "other_debtors",
-    "plain": "co-applicant or guarantor",
-    "value": "co-applicant",
-    "effect": "hurt",
-    "strength": -0.28
-   }
-  ],
-  "text": "Your loan was turned down because you own real estate property. Having free housing also hurt your application. Finally, having a co-applicant worked against you.",
-  "written_by": "gemini-3.5-flash-lite"
+ "4f9ec4b70ae8": {
+  "text": "Your loan was turned down because your most valuable property is real estate. Another reason is that your housing is rent-free. Finally, the model was hurt because you have a co-applicant or guarantor.",
+  "model": "gemini-3.5-flash-lite"
  },
- "0": {
-  "decision": "APPROVED",
-  "approve_chance": 0.87,
-  "drivers": [
-   {
-    "feature": "credit_history",
-    "plain": "credit history",
-    "value": "all credits here paid back",
-    "effect": "helped",
-    "strength": 0.62
-   },
-   {
-    "feature": "savings",
-    "plain": "savings",
-    "value": ">=1000",
-    "effect": "helped",
-    "strength": 0.57
-   },
-   {
-    "feature": "duration_months",
-    "plain": "loan length (months)",
-    "value": "6",
-    "effect": "helped",
-    "strength": 0.43
-   }
-  ],
-  "text": "Your credit history helped because you paid back all your previous credits. Having savings of 1000 or more also helped your application. Finally, your short loan length of 6 months worked in your favor.",
-  "written_by": "gemini-3.5-flash-lite"
+ "c5019bbcf7d3": {
+  "text": "Your loan application was approved because all credits here paid back. \nYou also have savings of >=1000, which helped your application. \nFinally, your loan length (months) is 6, which also helped your application.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "9d9d44cacb52": {
+  "text": "amount, savings, checking",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "de09444e360c": {
+  "text": "checking, savings, amount",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "f249046640f8": {
+  "text": "checking, credit_history, amount",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "53471be03785": {
+  "text": "checking, amount, savings",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "01978fbc77de": {
+  "text": "checking, savings, amount",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "2d881ed52e3c": {
+  "text": "checking, savings, amount",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "86ccf68337a6": {
+  "text": "employment, checking, amount",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "55033f1d8c93": {
+  "text": "checking, duration_months, amount",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "be95c6daad01": {
+  "text": "checking, credit_history, savings",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "60e9428997f8": {
+  "text": "amount, checking, savings",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "873f726cf9ed": {
+  "text": "checking, savings, amount",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "2abaddffe1dc": {
+  "text": "checking, credit_history, amount",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "6c63f2bb449a": {
+  "text": "amount, checking, duration_months",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "0c84b851b401": {
+  "text": "checking, savings, amount",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "e8662c6a6f97": {
+  "text": "employment, checking, amount",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "0b48fa32c41e": {
+  "text": "credit_history, checking, amount",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "1e5f96d59fde": {
+  "text": "checking, credit_history, amount",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "35a3c34be350": {
+  "text": "amount, savings, credit_history",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "64f0161fe983": {
+  "text": "savings, amount, duration_months",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "00a8fd010373": {
+  "text": "checking, credit_history, amount",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "81384b3854fd": {
+  "text": "checking, credit_history, savings",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "2b584b5d9fa6": {
+  "text": "checking, credit_history, amount",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "7dc0d4317356": {
+  "text": "amount, credit_history, duration_months",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "34ee2c09880d": {
+  "text": "credit_history, checking, amount",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "512daaf45a6f": {
+  "text": "duration_months, credit_history, amount",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "95b1e910a50d": {
+  "text": "amount, checking, credit_history",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "b458a6dd9423": {
+  "text": "amount, duration_months, savings",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "c61abb3ec074": {
+  "text": "credit_history, checking, amount",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "b974eebff409": {
+  "text": "savings, amount, duration_months",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "57cbe9e3644e": {
+  "text": "amount, duration_months, savings",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "334270b8ccf3": {
+  "text": "Your loan application was turned down because your loan amount was 11998. \nAnother reason it was rejected is that you have no account for your checking account balance. \nFinally, the decision was based on the fact that your loan purpose is appliances.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "dbbb547ec567": {
+  "text": "Your loan was denied because your checking account balance is less than zero. Another reason is that your housing is rent-free. Finally, having a co-applicant also hurt your application.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "e64a4a6b99d3": {
+  "text": "Your loan application was rejected because our computer model found you have no checking account. It was also hurt by your credit history showing critical / credits elsewhere. Finally, your housing status being rent-free also hurt the application.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "1617d294bcd9": {
+  "text": "Your loan application was turned down because you have no account for checking account balance. Another reason was your share of income going to repayments was 4. Finally, your loan purpose was radio/tv.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "1c10227769be": {
+  "text": "Your loan purpose was listed as other, which hurt your application. Also, your other payment plans were through the bank, which hurt your application. Finally, your checking account balance was under 0, which hurt your application.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "666b7193350c": {
+  "text": "Your loan was not approved because the loan purpose was other. Another reason is that your checking account balance was less than 0. Finally, your time in current job was less than 1 year.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "63aa1ca426c5": {
+  "text": "Your loan application was turned down because of the loan amount of 15857. \nAnother reason it was rejected is having no account for your checking account balance. \nFinally, the loan length in months of 36 also hurt your application.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "c0ef1f78bfcc": {
+  "text": "Your loan application was rejected because your loan length in months was 45. Another reason was that your checking account balance was less than zero. Finally, your savings were none or unknown.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "4f4ad30ee5e5": {
+  "text": "Your loan application was turned down because you have no account for checking account balance. Another reason was that your housing (rent-free / rent / own) is set to rent-free. Finally, the decision was affected by your loan length (months) of 36.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "9f1eedc115db": {
+  "text": "Your loan application was rejected because you have no checking account. Another reason is that you have no savings, or it is unknown. Finally, the decision was based on having no credits or all paid back.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "0f0ea2d2cc79": {
+  "text": "Your loan application was turned down because your loan purpose is appliances. Another reason is your checking account balance is less than zero. Finally, your savings is none or unknown.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "5249ddcc0ab5": {
+  "text": "Your loan was turned down because your loan purpose is repairs. Another reason is that you have no checking account. Finally, your most valuable property is real estate, which also hurt your application.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "c1f170c7ffff": {
+  "text": "Our computer model rejected your loan application because your checking account balance is no account. The decision was also based on the fact that your loan purpose is other. Finally, your savings is none/unknown, which also hurt the application.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "0c4481971055": {
+  "text": "Our computer model rejected your loan application because your loan purpose was repairs. Another reason is that you had no checking account balance. Finally, the decision was affected because your savings was none/unknown.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "4bb02c8aeba8": {
+  "text": "Your application was approved because your credit history shows all credits here paid back. \nAnother reason is your time in current job is 4-7yr. \nFinally, your job type is management.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "cfc1441a87a5": {
+  "text": "Your checking account balance was at least 200 or you have a salary. Your job type is management. Your loan purpose is furniture.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "8d041f20be2f": {
+  "text": "Your loan application was approved because your checking account balance was at least 200 or your salary helped the application. In addition, your savings of at least 1000 helped the application. Finally, your loan amount of 886 helped the application.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "6d052bf5a00e": {
+  "text": "Your loan application was approved because your checking account balance is at least 200 or you have a salary. Also, you paid back all your credits here. Finally, your savings are at least 1000.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "80b29589c2a6": {
+  "text": "Your checking account balance is at least 200 or you have a salary. Your credit history shows all credits here were paid back. Your loan purpose is furniture.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "a22726330e12": {
+  "text": "Your checking account balance was at least 200 or your salary helped your application. Your job type being management also helped the application. Finally, your share of income going to repayments being 2 helped the application.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "eac4ef383857": {
+  "text": "Your loan application was approved because you have a guarantor. Also, having no most valuable property helped your application. Finally, having a registered telephone helped your application.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "1810f1e5868c": {
+  "text": "Your checking account balance was at least 200 or you had a salary. You had no other payment plans. Your housing was rent.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "5a652ec1f4dc": {
+  "text": "Your application was approved because you have a guarantor. The loan length of 7 months also helped your application. Finally, your loan purpose of furniture helped your application.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "d53cb40eb1bf": {
+  "text": "Your savings are between 500 and 1000, which helped your application. Your loan length in months is 11, which helped your application. Your most valuable property is none, which helped your application.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "130f6229678e": {
+  "text": "Your loan purpose is a new car, which helped your application. Your checking account balance is 200 or more, or you have a salary, which helped your application. Your savings are 1000 or more, which helped your application.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "27e441c663de": {
+  "text": "Your checking account balance is at least 200 or you have a salary. All of your credit history shows that your past credits were paid back. Your share of income going to repayments is 2.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "123c083a1f05": {
+  "text": "Your savings of 1000 or more helped your application get approved. The loan amount of 754 also helped your application. Finally, the loan length of 12 months helped your application.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "5553193eb346": {
+  "text": "Your loan purpose is a new car. Your checking account balance is greater than or equal to 200 or salary. Your credit history shows all credits here paid back.",
+  "model": "gemini-3.5-flash-lite"
  }
 }
