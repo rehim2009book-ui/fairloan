@@ -238,5 +238,249 @@
  "5553193eb346": {
   "text": "Your loan purpose is a new car. Your checking account balance is greater than or equal to 200 or salary. Your credit history shows all credits here paid back.",
   "model": "gemini-3.5-flash-lite"
+ },
+ "299314675829": {
+  "text": "Having real estate like a house, flat, or land hurt your application.\nLiving rent-free without paying rent hurt your application.\nHaving a co-applicant hurt your application.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "be63eac8308b": {
+  "text": "The fact that you paid back every earlier loan at this bank helped you.\nHaving 1000 DM or more in savings helped you.\nTaking the loan for 6 months helped you.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "588c8ecb8e6c": {
+  "text": "checking, savings, amount",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "4ed0d1b70b7e": {
+  "text": "checking, savings, amount",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "f704c2e64750": {
+  "text": "checking, credit_history, savings",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "b004c7ef7ddf": {
+  "text": "employment, checking, savings",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "9ba1bfa1fb90": {
+  "text": "checking, amount, credit_history",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "5f5200d1454e": {
+  "text": "checking, savings, amount",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "2d8cc4ee7a37": {
+  "text": "employment, checking, savings",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "2881257bfcc1": {
+  "text": "checking, duration_months, amount",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "251dfac929e2": {
+  "text": "checking, credit_history, savings",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "bca0881a0dc7": {
+  "text": "checking, credit_history, savings",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "f4f451eb3f88": {
+  "text": "checking, amount, duration_months",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "c3e6115d4ec7": {
+  "text": "checking, amount, credit_history",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "c4152085d8ae": {
+  "text": "checking, amount, credit_history",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "3cca9524a468": {
+  "text": "checking, amount, property",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "332cd9348c56": {
+  "text": "employment, checking, savings",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "fbfd90a0e154": {
+  "text": "duration_months, amount, checking",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "4aa2303a99f4": {
+  "text": "credit_history, checking, amount",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "306a29f7c1cb": {
+  "text": "savings, credit_history, amount",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "0506c00d1408": {
+  "text": "savings, credit_history, employment",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "8435d997d6da": {
+  "text": "checking, credit_history, amount",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "1e83de1308eb": {
+  "text": "amount, savings, credit_history",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "cd759edec52e": {
+  "text": "checking, credit_history, amount",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "a4d6cff1d7e6": {
+  "text": "amount, duration_months, credit_history",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "cbcaf29b6fc5": {
+  "text": "amount, credit_history, duration_months",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "5e062567cc4f": {
+  "text": "checking, amount, credit_history",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "7261bbe16a66": {
+  "text": "amount, duration_months, checking",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "2f2c2d0dd107": {
+  "text": "amount, checking, savings",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "d6a29d87f63f": {
+  "text": "amount, credit_history, duration_months",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "b95de11fb795": {
+  "text": "amount, savings, checking",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "a09fd6c50a49": {
+  "text": "savings, credit_history, employment",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "923adea70ecd": {
+  "text": "You asked for a loan amount of 11,998 DM, which hurt your chances.\nNot having a checking account at this bank worked against you.\nApplying for a loan for appliances also counted against you.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "39904a7657b6": {
+  "text": "Your checking account balance is overdrawn below 0 DM, which hurt your chances.\nLiving rent-free and paying no rent hurt your chances.\nHaving a co-applicant hurt your chances.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "6f85f71c3003": {
+  "text": "Not having a checking account at this bank hurt your application.\nHaving a critical account or loans at other banks hurt your application.\nLiving rent-free without paying rent hurt your application.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "d30fbd3382e6": {
+  "text": "Not having a checking account at this bank hurt your application. \nHaving a share of income going to repayments rated as 4 hurt your application. \nApplying for a loan for radio/tv hurt your application.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "2b0ee707e26b": {
+  "text": "Applying for a loan for other reasons hurt your application.\nHaving another payment plan at a bank hurt your application.\nHaving a checking account balance that was overdrawn below 0 DM hurt your application.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "32852dcc41fa": {
+  "text": "Applying for a loan for other reasons hurt your chances.\nHaving an overdrawn checking account below 0 DM hurt your chances.\nHaving a time in your current job of less than 1 year hurt your chances.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "f326ff1ea84d": {
+  "text": "Your loan amount was 15,857 Deutsche Mark, which hurt your application.\nNot having a checking account at this bank hurt you.\nThe loan length of 36 months hurt your chances.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "79bc0d56155e": {
+  "text": "Your loan length was 45 months, which hurt your application.\nHaving your checking account overdrawn below 0 DM hurt you.\nHaving no savings account, or an unknown savings amount, hurt you.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "8ff702d86d2d": {
+  "text": "Not having a checking account at this bank hurt your application. \nLiving rent-free without paying any rent hurt you as well. \nAlso, applying for a loan length of 36 months hurt your chances.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "745a6d93f0d7": {
+  "text": "Not having a checking account at this bank hurt you.\nNot having a savings account, or having an unknown savings amount, hurt you.\nHaving no earlier loans, or having paid them all back, hurt you.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "bdf29a5a8717": {
+  "text": "You wanted the loan to buy appliances, and that counted against you.\nYour checking account was overdrawn below 0 DM, which hurt your chances.\nHaving no savings account, or an unknown savings status, also counted against you.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "5da2cdb7df79": {
+  "text": "Your loan was for repairs, which hurt your chances.\nNot having a checking account at this bank hurt you.\nHaving real estate, like a house, flat, or land, as your most valuable property hurt you.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "aa67844e7eb1": {
+  "text": "Not having a checking account at this bank hurt your application.\nApplying for a loan for another purpose hurt your application.\nHaving no savings account, or an unknown amount of savings, hurt your application.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "1b8f5c9511c2": {
+  "text": "You applied for the loan to pay for repairs, which hurt your chances.\nNot having a checking account at this bank hurt you.\nNot having a savings account, or having an unknown amount of savings, also hurt you.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "f09c45f21d36": {
+  "text": "You paid back every earlier loan you had at this bank, which helped you.\nWorking at your current job for 4 to 7 years helped you.\nHaving a management job helped you.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "eaa153f123d8": {
+  "text": "Having 200 DM or more in your checking account, or having a salary account, helped you.\nWorking in management helped you.\nApplying for a loan to buy furniture helped you.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "3657c590f175": {
+  "text": "Having a checking account balance of 200 DM or more, or having a salary account, helped you.\nHaving 1000 DM or more in savings helped you.\nThe loan amount of 886 helped you.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "839ee80de600": {
+  "text": "Having 200 DM or more in your checking account, or having a salary account, helped you.\nPaying back every earlier loan you had at this bank helped you.\nHaving 1000 DM or more in savings helped you.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "a540af766654": {
+  "text": "Having a checking account balance of 200 DM or more, or having a salary account, helped you.\nPaying back every earlier loan at this bank helped you.\nApplying for a loan to buy furniture helped you.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "1cf302765950": {
+  "text": "Your checking account balance of 200 DM or more, or having a salary account, helped you.\nYour job type being management helped you.\nYour share of income going to repayments being code 2 helped you.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "14b338bb081f": {
+  "text": "Having someone guarantee your loan helped you.\nNot having any valuable property helped you.\nHaving a registered telephone helped you.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "c886c632c988": {
+  "text": "Having a checking account balance of 200 DM or more, or having a salary account, helped you.\nHaving no other payment plans helped you.\nRenting your housing helped you.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "a6a07365079d": {
+  "text": "Having a guarantor helped you.\nTaking out a loan for 7 months helped you.\nGetting a loan for furniture helped you.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "d936467eed46": {
+  "text": "Having between 500 and 1000 DM in savings helped you.\nTaking out the loan for a length of 11 months helped you.\nHaving no valuable property helped you.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "2df183469553": {
+  "text": "Buying a new car helped you.\nHaving a checking account balance of 200 DM or more, or having a salary account, helped you.\nHaving 1000 DM or more in savings helped you.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "f6c3b708daab": {
+  "text": "Having a checking account balance of 200 DM or more, or having a salary account, helped you.\nPaying back every earlier loan you had at this bank helped you.\nHaving your share of income going to repayments rated as code 2 helped you.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "eaabca74accf": {
+  "text": "Having 1000 DM or more in savings helped you.\nBorrowing 754 DM helped you.\nChoosing a loan length of 12 months helped you.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "a625d300033b": {
+  "text": "Taking out a loan for a brand new car helped you.\nHaving 200 DM or more in your checking account, or using it as a salary account, helped you.\nPaying back every earlier loan you had at this bank helped you.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "8e03a0057ae8": {
+  "text": "Your checking account balance was overdrawn below 0 DM, which hurt your application.\nLiving rent-free where you pay no rent hurt your chances.\nHaving been in your current job for less than 1 year also hurt you.",
+  "model": "gemini-3.5-flash-lite"
  }
 }
