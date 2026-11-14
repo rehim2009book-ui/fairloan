@@ -1,0 +1,60 @@
+{
+ "93": {
+  "decision": "REJECTED",
+  "approve_chance": 0.47,
+  "drivers": [
+   {
+    "feature": "property",
+    "plain": "property owned",
+    "value": "real estate",
+    "effect": "hurt",
+    "strength": -0.47
+   },
+   {
+    "feature": "housing",
+    "plain": "housing (rent / own / free)",
+    "value": "free",
+    "effect": "hurt",
+    "strength": -0.47
+   },
+   {
+    "feature": "other_debtors",
+    "plain": "co-applicant or guarantor",
+    "value": "co-applicant",
+    "effect": "hurt",
+    "strength": -0.28
+   }
+  ],
+  "text": "Your loan was turned down because you own real estate property. Having free housing also hurt your application. Finally, having a co-applicant worked against you.",
+  "written_by": "gemini-3.5-flash-lite"
+ },
+ "0": {
+  "decision": "APPROVED",
+  "approve_chance": 0.87,
+  "drivers": [
+   {
+    "feature": "credit_history",
+    "plain": "credit history",
+    "value": "all credits here paid back",
+    "effect": "helped",
+    "strength": 0.62
+   },
+   {
+    "feature": "savings",
+    "plain": "savings",
+    "value": ">=1000",
+    "effect": "helped",
+    "strength": 0.57
+   },
+   {
+    "feature": "duration_months",
+    "plain": "loan length (months)",
+    "value": "6",
+    "effect": "helped",
+    "strength": 0.43
+   }
+  ],
+  "text": "Your credit history helped because you paid back all your previous credits. Having savings of 1000 or more also helped your application. Finally, your short loan length of 6 months worked in your favor.",
+  "written_by": "gemini-3.5-flash-lite"
+ }
+}
