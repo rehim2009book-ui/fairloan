@@ -3,6 +3,10 @@
   "text": "savings, credit_history, employment",
   "model": "gemini-3.5-flash-lite"
  },
+ "099888e4abb5": {
+  "text": "Having between 500 and 1000 DM in savings helped you.\nTaking out the loan for furniture helped you.\nHaving a registered telephone helped you.",
+  "model": "gemini-3.5-flash-lite"
+ },
  "14b338bb081f": {
   "text": "Having someone guarantee your loan helped you.\nNot having any valuable property helped you.\nHaving a registered telephone helped you.",
   "model": "gemini-3.5-flash-lite"
@@ -19,6 +23,10 @@
   "text": "amount, savings, credit_history",
   "model": "gemini-3.5-flash-lite"
  },
+ "241c9ade34f8": {
+  "text": "Having a checking account balance of 200 DM or more, or having a salary account, helped you.\nTaking out the loan for furniture helped you.\nHaving under 100 DM in savings helped you.",
+  "model": "gemini-3.5-flash-lite"
+ },
  "251dfac929e2": {
   "text": "checking, credit_history, savings",
   "model": "gemini-3.5-flash-lite"
@@ -29,6 +37,10 @@
  },
  "299314675829": {
   "text": "Having real estate like a house, flat, or land hurt your application.\nLiving rent-free without paying rent hurt your application.\nHaving a co-applicant hurt your application.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "2a40add1b36a": {
+  "text": "Not having a checking account at this bank hurt you.\nLiving rent-free hurt you.\nHaving a job for less than one year hurt you.",
   "model": "gemini-3.5-flash-lite"
  },
  "2b0ee707e26b": {
@@ -71,12 +83,24 @@
   "text": "checking, amount, property",
   "model": "gemini-3.5-flash-lite"
  },
+ "4a199476f449": {
+  "text": "Having your current job for 4 to 7 years helped you.\nNeeding the loan for furniture helped you.\nHaving under 100 DM in savings helped you.",
+  "model": "gemini-3.5-flash-lite"
+ },
  "4aa2303a99f4": {
   "text": "credit_history, checking, amount",
   "model": "gemini-3.5-flash-lite"
  },
  "4ed0d1b70b7e": {
   "text": "checking, savings, amount",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "521e857d14b1": {
+  "text": "Your checking account was overdrawn, meaning the balance dropped below 0 DM, which hurt your chances.\nThe fact that you live rent-free and pay no rent also hurt your application.\nHaving no earlier loans, or having paid all of them back, hurt you as well.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "55a37a07ec29": {
+  "text": "Getting this loan to buy furniture helped you out.\nHaving less than 100 DM in savings worked in your favour.\nHaving a registered telephone also helped your application.",
   "model": "gemini-3.5-flash-lite"
  },
  "588c8ecb8e6c": {
@@ -109,6 +133,10 @@
  },
  "79bc0d56155e": {
   "text": "Your loan length was 45 months, which hurt your application.\nHaving your checking account overdrawn below 0 DM hurt you.\nHaving no savings account, or an unknown savings amount, hurt you.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "829edd2d3968": {
+  "text": "Your checking account balance is overdrawn below 0 DM, which hurt your application.\nThe fact that you live rent-free and pay no rent hurt your application.\nHaving no savings account or unknown savings hurt your application.",
   "model": "gemini-3.5-flash-lite"
  },
  "839ee80de600": {
@@ -209,6 +237,10 @@
  },
  "d936467eed46": {
   "text": "Having between 500 and 1000 DM in savings helped you.\nTaking out the loan for a length of 11 months helped you.\nHaving no valuable property helped you.",
+  "model": "gemini-3.5-flash-lite"
+ },
+ "e31686a966de": {
+  "text": "Having a guarantor helped you.\nNeeding the loan for furniture helped you.\nHaving under 100 DM in savings helped you.",
   "model": "gemini-3.5-flash-lite"
  },
  "eaa153f123d8": {
