@@ -6,7 +6,7 @@
 
 **Code:** [fairloan.ipynb](fairloan.ipynb) · [open it in Colab](https://colab.research.google.com/github/rehim2009book-ui/fairloan/blob/main/fairloan.ipynb) (Runtime → Run all, about two minutes, no API key needed)
 
-**Demo video:** VIDEO LINK HERE
+**Demo video:** https://youtu.be/FBHCnEF82qk
 
 *This project is a prototype and is not financial advice.*
 
