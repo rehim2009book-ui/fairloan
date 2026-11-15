@@ -2,11 +2,13 @@
 
 **Track:** AI + Finance
 
-**Team:** Proxy Hunters
+**Team:** Proxy Hunters (Ughur Huseynli)
 
 **Code:** [fairloan.ipynb](fairloan.ipynb) · [open it in Colab](https://colab.research.google.com/github/rehim2009book-ui/fairloan/blob/main/fairloan.ipynb) (Runtime → Run all, about two minutes, no API key needed)
 
 **Demo video:** https://youtu.be/FBHCnEF82qk
+
+**One-page write-up (PDF):** [TwinCheck_writeup.pdf](TwinCheck_writeup.pdf)
 
 *This project is a prototype and is not financial advice.*
 
