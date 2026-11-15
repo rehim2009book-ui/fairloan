@@ -4,7 +4,7 @@
 
 **Team:** Proxy Hunters
 
-**Code:** [fairloan.ipynb](fairloan.ipynb) · [open it in Colab](https://colab.research.google.com/github/rehim2009book-ui/fairloan/blob/main/fairloan.ipynb) (Runtime → Run all, about a minute, no API key needed)
+**Code:** [fairloan.ipynb](fairloan.ipynb) · [open it in Colab](https://colab.research.google.com/github/rehim2009book-ui/fairloan/blob/main/fairloan.ipynb) (Runtime → Run all, about two minutes, no API key needed)
 
 **Demo video:** VIDEO LINK HERE
 
@@ -18,6 +18,8 @@ Banks use computer models to decide who gets a loan, and the person who is refus
 
 **In:** one loan application (savings, job, housing, loan size and so on).
 **Out:** the decision, the model's real reasons in plain words, the smallest change that would get a yes, and a check of whether a detail that mostly signals age changed the answer.
+
+**Try it:** open the notebook in Colab and press Runtime → Run all. At the bottom a small form opens. Change one detail of an applicant, press Submit, and watch the answer change.
 
 A real example from our data, applicant #470, who is under 25:
 
